@@ -39,7 +39,7 @@ namespace ByteBank.SistemaAgencia.Comparadores
             return 1; // Y fica na frente de X
 
 
-            // Nossas comparações de númeriso inteiros é equivalente
+            // Nossas comparações de números inteiros é equivalente
             // ao que já existe no tipo INT
             // return x.Agencia.CompareTo(y.Agencia);
         }
